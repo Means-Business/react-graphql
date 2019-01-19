@@ -1,0 +1,15 @@
+{
+  "files.autoSave": "afterDelay",
+  "git.enableSmartCommit": true,
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
+  "prettier.eslintIntegration": true,
+  "prettier.singleQuote": true,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "stylelint.enable": true
+}
